@@ -1,9 +1,9 @@
 const initialData = [
     {
-      bookName: "The Catcher in the Rye",
-      authorName: "J.D. Salinger",
-      ISBN: "9780316769174",
-      genre: "Fiction"
+      "bookName": "The Catcher in the Rye",
+      "authorName": "J.D. Salinger",
+      "ISBN": "9780316769174",
+      "genre": "Fiction"
     },
     {
       "bookName": "To Kill a Mockingbird",
